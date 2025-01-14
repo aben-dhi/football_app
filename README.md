@@ -2,6 +2,10 @@
 
 This project is a web application built with Streamlit that allows users to explore NFL player statistics. The app scrapes data from Pro-Football-Reference.com and provides various features to filter and visualize the data.
 
+![Demo](images/1.png)
+![Demo2](images/2.png)
+![Demo3](images/3.png)
+
 ## Features
 
 - **Web Scraping**: Automatically fetches NFL player stats data from Pro-Football-Reference.com.
